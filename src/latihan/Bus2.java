@@ -38,6 +38,20 @@ public class Bus2 {
             System.out.println("Password Salah");
         }
     }
+    public void getAverage()
+    {
+        double Avg;
+        double BBPenumpangLama;
+        double BBPenumpangBaru;
+        double jmlh;
+        int BBLama = 40;
+        int BBBaru = 45;
+        BBPenumpangLama = penumpang*BBLama;
+        BBPenumpangBaru = penumpangBaru*BBBaru;
+        jmlh = this.penumpang+penumpang;
+        Avg = BBPenumpangLama + BBPenumpangBaru/jmlh;
+        System.out.println("Rata-rata berat penumpang adalah :  " +Avg+ " dari : "+penumpang);
+    }
     public void cetakpenumpang() {
         System.out.println("Penumpang Bus Sekarang = "+penumpang);
         System.out.println("Maksimum penumpang yang seharusnya adalah = "+maxpenumpang);
