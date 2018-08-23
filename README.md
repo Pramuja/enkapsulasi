@@ -1,7 +1,7 @@
 # enkapsulasi
-Hasil ujibola
+* Hasil ujibola <br>
 ![alt text](https://github.com/Pramuja/enkapsulasi/blob/master/ujibola.JPG)
-hasil EncapSiswa
+* Hasil EncapSiswa <br>
 ![alt text](https://github.com/Pramuja/enkapsulasi/blob/master/hasilencapsiswa.JPG)
-hasil UjiBus
+* Hasil UjiBus <br>
 ![alt text](https://github.com/Pramuja/enkapsulasi/blob/master/hasilujibus.JPG)
